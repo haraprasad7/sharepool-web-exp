@@ -1,0 +1,26 @@
+h1 {color:green;text-align:center}
+
+body {margin:70px}
+
+p {color:red;line-height:160%;background-color:yellow;text-indent:left;font-style:italic;margin-right:20px}
+
+p {padding-right:30px;padding-left:30px}
+
+#pform {color:green;background-color:violet}
+
+#topheader{
+	
+	border: 2px solid blue;
+	background: yellow;
+	
+}
+#menu{
+	background-color: red;
+	color:white;
+	}
+#menu li{
+	font: bold 20px Tahoma;
+	display: inline-block;
+	padding: 5px;
+	
+}
